@@ -3,6 +3,11 @@
 	--global-color-1: #800000;
 }
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 html {
 	background-color: #FFFFFF;
 }
@@ -96,4 +101,6 @@ footer {
 footer p {
 	text-align: center;
 	padding: 1em 0;
+	border-top: 3px solid #931420;
+	color: #fffded
 }
